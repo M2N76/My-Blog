@@ -1,0 +1,10 @@
+Title: Blog Project Structure
+Summary: Store each article in its own folder together with an image and content file.
+Content:
+In this setup, every blog post lives in a dedicated folder under public/blog. The folder name becomes the post slug.
+
+Each folder includes:
+- A cover image called cover.svg
+- A text file called post.txt
+
+This approach makes the blog easy to extend without changing the site code. Add a new folder, write the post text, and add an image.

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#111827" />
+  <text x="90" y="170" fill="#34d399" font-family="Arial, sans-serif" font-size="72" font-weight="700">Blog Project Structure</text>
+  <text x="90" y="260" fill="#e2e8f0" font-family="Arial, sans-serif" font-size="32">Each post folder contains a text file and an image.</text>
+  <rect x="90" y="330" width="260" height="8" fill="#60a5fa" />
+  <text x="90" y="430" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="28">Create a new folder, add post.txt, add cover.svg.</text>
+</svg>

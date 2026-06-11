@@ -1,0 +1,6 @@
+Title: Welcome to the Blog
+Summary: A simple project-based blog structure built from public folders.
+Content:
+This post introduces the blog system and explains how each article is stored inside its own folder. Every post contains a single image and a text file.
+
+The text file includes a title, a summary, and the article content. This structure makes it easy to add new posts by creating a new folder in public/blog.
